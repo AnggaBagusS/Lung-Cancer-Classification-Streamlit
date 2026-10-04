@@ -42,7 +42,7 @@ menu = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.info(
-    "**UAS Data Science Project**\n\n"
+    "**Data Science Project**\n\n"
     "Sistem Prediksi Risiko Kanker Paru-Paru berbasis Machine Learning & Visualisasi Data."
 )
 
